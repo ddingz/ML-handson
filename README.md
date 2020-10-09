@@ -15,4 +15,4 @@
 - **chapter05 서포트 벡터 머신**
   - 실습 내용 : SVM
 - **chapter06 결정 트리**
-  - 실습 내용 : 
+  - 실습 내용 : decision tree
