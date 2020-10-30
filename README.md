@@ -20,3 +20,5 @@
   - 실습 내용 : 앙상블 방법
 - **chapter08 차원 축소**
   - 실습 내용 : 차원의 저주
+- **chapter09 비지도 학습**
+  - 실습 내용 : unsupervised learning
