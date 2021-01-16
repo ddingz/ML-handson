@@ -34,3 +34,6 @@
   - 실습 내용 : CNN
 - **chapter15 RNN과 CNN을 사용해 시퀀스 처리하기**
   - 실습 내용 : RNN과 CNN
+- **chapter16 RNN과 어텐션을 사용한 자연어 처리**
+  - 실습 내용 : RNN과 어텐션
+
