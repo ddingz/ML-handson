@@ -38,3 +38,5 @@
   - 실습 내용 : RNN과 어텐션
 - **chapter17 오토인코더와 GAN을 사용한 표현 학습과 생성적 학습**
   - 실습 내용 : autoencoder and GAN
+- **chapter18 강화 학습**
+  - 실습 내용 : reinforcement learning
